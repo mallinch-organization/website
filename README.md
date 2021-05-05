@@ -4,8 +4,6 @@ This is a really awsome website
 
 Updates made on master on GitHub before rebase
 
-## Repository Purpose
+Repository Purpose
 
-This will be a change that conflicts
-with whatever is on the remore side. 
-This was edited locally. 
+This file is just readme file.
